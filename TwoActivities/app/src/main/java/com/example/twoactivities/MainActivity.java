@@ -8,6 +8,8 @@ import android.content.Intent;
 import android.widget.EditText;
 import android.widget.TextView;
 
+// this is the updated version
+
 public class MainActivity extends AppCompatActivity {
     private static final String LOG_TAG = MainActivity.class.getSimpleName();
     public static final String EXTRA_MESSAGE = "com.example.android.twoactivities.extra.MESSAGE";
